@@ -1,15 +1,25 @@
+ch3_02/Customer.java
+ ch3_02.Customer
+ch21/ObjectCopyTest.java
+ ch21.ObjectCopyTest
+ch3_02/CustomerTest.java
+ ch3_02.CustomerTest
 ch11/MakeReport.java
  ch11.MakeReport
 UserInfoTest.java
  UserInfoTest
 ch20/ArrayTest.java
  ch20.ArrayTest
+ch3_03/VIPCustomer.java
+ ch3_03.VIPCustomer
 ch20/CharArrayTest.java
  ch20.CharArrayTest
 UserInfo.java
  UserInfo
 ch18/CompanyTest.java
  ch18.CompanyTest
+ch22/TwoDimensionTest.java
+ ch22.TwoDimensionTest
 Student.java
  Student
 ch09/Subject.java
@@ -26,18 +36,24 @@ ch16/Employee.java
  ch16.Employee
 ch13/Subway.java
  ch13.Subway
-ch11/MakeReportTest.java
- ch11.MakeReportTest
+ch21/BookTest.java
+ ch21.BookTest
 ch10/BirthDayTest.java
  ch10.BirthDayTest
+ch3_03/Customer.java
+ ch3_03.Customer
 Student2.java
  Student2
 ch09/Student.java
  ch09.Student
+ch3_03/CustomerTest.java
+ ch3_03.CustomerTest
 breakTest.java
  breakTest
 ch16/EmployeeTest.java
  ch16.EmployeeTest
+ch21/ObjectCopyTest2.java
+ ch21.ObjectCopyTest2
 StudentTest.java
  StudentTest
 ch10/BirthDay.java
@@ -50,11 +66,11 @@ ch12/Person.java
  ch12.Person
 functionTest.java
  functionTest
+ch3_02/VIPCustomer.java
+ ch3_02.VIPCustomer
+ch23/ArrayListTest.java
+ ch23.ArrayListTest
 Student2Test.java
  Student2Test
-ch21/BookTest.java
- ch21.BookTest
-ch21/ObjectCopyTest.java
- ch21.ObjectCopyTest
-ch21/ObjectCopyTest2.java
- ch21.ObjectCopyTest2
+ch11/MakeReportTest.java
+ ch11.MakeReportTest
