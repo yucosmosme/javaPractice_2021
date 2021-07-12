@@ -86,10 +86,14 @@ UserInfo.java
  UserInfo
 ch18/CompanyTest.java
  ch18.CompanyTest
+ch3_11/CalculatorTest.java
+ ch3_11.CalculatorTest
 ch3_04/VIPCustomer.java
  ch3_04.VIPCustomer
 ch3_04/CustomerTest.java
  ch3_04.CustomerTest
+ch3_11/Calc.java
+ ch3_11.Calc
 ch22/TwoDimensionTest.java
  ch22.TwoDimensionTest
 Student.java
@@ -102,6 +106,8 @@ ch10/BirthDayTest.java
  ch10.BirthDayTest
 ch3_03/Customer.java
  ch3_03.Customer
+ch3_11/CompleteCalc.java
+ ch3_11.CompleteCalc
 Student2.java
  Student2
 ch3_03/CustomerTest.java
@@ -114,6 +120,8 @@ ch_10/ManualCar.java
  ch_10.ManualCar
 ch13/Student.java
  ch13.Student
+ch3_11/Calculator.java
+ ch3_11.Calculator
 ch3_02/VIPCustomer.java
  ch3_02.VIPCustomer
 ch11/MakeReportTest.java
