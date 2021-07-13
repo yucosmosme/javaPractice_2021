@@ -1,33 +1,13 @@
 package ch3_13.domain.userinfo.dao;
 
-public class UserInfoDAO {
+import ch3_13.domain.userinfo.UserInfo;
 
-    private String userId;
-    private String passwd;
-    private String userName;
+//여기서 인터페이스만 선언하고나면
+//나중에 db 엔진에 맞게 구현해서 쓰면 됨.
+public interface UserInfoDAO {
 
-    public String getUserId() {
-        return userId;
-    }
-
-    public void setUserId(String userId) {
-        this.userId = userId;
-    }
-
-    public String getPasswd() {
-        return passwd;
-    }
-
-    public void setPasswd(String passwd) {
-        this.passwd = passwd;
-    }
-
-    public String getUserName() {
-        return userName;
-    }
-
-    public void setUserName(String userName) {
-        this.userName = userName;
-    }
+    void insertUserInfo(UserInfo userInfo);
+    void updateUserInfo(UserInfo userInfo);
+    void deleteUserInf(UserInfo userInfo);
 
 }
