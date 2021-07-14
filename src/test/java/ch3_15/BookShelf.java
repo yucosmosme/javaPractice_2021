@@ -9,7 +9,7 @@ public class BookShelf extends Shelf implements Queue{
     public void enQueue(String title) {
         //shelf는 Shelf.java (상위클래스)의 protected변수
         //여기서는 상속받았으므로 쓸수있다.
-        //shelf는 arraylist이므로 거기에 속한 .add, .remove등의 메소드 사용가능
+        //shelf는 hashSet이므로 거기에 속한 .add, .remove등의 메소드 사용가능
         shelf.add(title);
     }
 

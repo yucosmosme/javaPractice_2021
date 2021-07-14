@@ -18,7 +18,7 @@ public class Customer {
     클래스가 다른 클래스를 포함하는 관계 ( 변수로 선언 )
     코드 재사용의 가장 일반적인 방법
     Student가 Subject를 포함하는
-    Library를 구현할 때 ArrayList 생성하여 사용
+    Library를 구현할 때 hashSet 생성하여 사용
     상속하지 않음
     * */
 

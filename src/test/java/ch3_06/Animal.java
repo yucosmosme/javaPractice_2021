@@ -1,5 +1,6 @@
 package ch3_06;
 
+
 import java.util.ArrayList;
 
 class Animal {
