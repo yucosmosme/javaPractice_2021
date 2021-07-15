@@ -225,8 +225,8 @@ ch3_03/CustomerTest.java
  ch3_03.CustomerTest
 ch3_13/domain/userinfo/dao/UserInfoDAO.java
  ch3_13.domain.userinfo.dao.UserInfoDAO
-ch5_14/MemberHashMap.java
- ch5_14.MemberHashMap
+ch4_04/StringTestf.java
+ ch4_04.StringTestf
 ch5_03/MyListNode.java
  ch5_03.MyListNode
 ch3_14/CalculatorTest.java
@@ -245,7 +245,29 @@ ch3_15/BookShelf.java
  ch3_15.BookShelf
 ch5_07/Material.java
  ch5_07.Material
-ch4_04/StringTestf.java
- ch4_04.StringTestf
+ch5_14/MemberHashMap.java
+ ch5_14.MemberHashMap
 ch5_14/MemberHashMapTest.java
  ch5_14.MemberHashMapTest
+ch6_01/AnonymousInnerTest.java
+ ch6_01.AnonymousInnerTest
+ ch6_01.Outer2
+ ch6_01.Outer2$1
+ch6_01/InnerTest.java
+ ch6_01.InnerTest
+ ch6_01.OutClass
+ ch6_01.OutClass$1
+ ch6_01.OutClass$InClass
+ ch6_01.OutClass$InStaticClass
+ch6_01/LocalInnerTest.java
+ ch6_01.LocalInnerTest
+ ch6_01.Outer
+ ch6_01.Outer$1MyRunnable
+ch6_02/Add.java
+ ch6_02.Add
+ch6_02/AddTest.java
+ ch6_02.AddTest
+ch6_03/MyNumberTest.java
+ ch6_03.MyNumberTest
+ch6_03/MyNumber.java
+ ch6_03.MyNumber
