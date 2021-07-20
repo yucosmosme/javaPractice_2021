@@ -12,6 +12,8 @@ ch3_14/Calc.java
  ch3_14.Calc
 ch3_06/GoldCustomer.java
  ch3_06.GoldCustomer
+ch6_14/FileInputStreamTest1.java
+ ch6_14.FileInputStreamTest1
 ch5_08/Point.java
  ch5_08.Point
 ch5_14/MemberHashMapTest.java
@@ -22,12 +24,16 @@ ch6_01/AnonymousInnerTest.java
  ch6_01.AnonymousInnerTest
  ch6_01.Outer2
  ch6_01.Outer2$1
+ch3_02/VIPCustomer.java
+ ch3_02.VIPCustomer
 ch6_04/StringConcatImpl.java
  ch6_04.StringConcatImpl
 ch18/Company.java
  ch18.Company
 ch21/BookTest.java
  ch21.BookTest
+ch6_11/MyLogger.java
+ ch6_11.MyLogger
 ch3_06/CustomerTest.java
  ch3_06.CustomerTest
 ch3_09/MyNoteBook.java
@@ -46,8 +52,12 @@ ch5_06/Powder.java
  ch5_06.Powder
 ch5_12/MemberHashSetTest.java
  ch5_12.MemberHashSetTest
+ch6_16/InputStreamReaderTest.java
+ ch6_16.InputStreamReaderTest
 ch3_06/VIPCustomer.java
  ch3_06.VIPCustomer
+ch6_09/AutoClosableObj.java
+ ch6_09.AutoClosableObj
 ch12/Person.java
  ch12.Person
 ch5_13/MemberTreeSet.java
@@ -64,16 +74,22 @@ ch21/ObjectCopyTest.java
  ch21.ObjectCopyTest
 ch6_05/IntArrayStreamTest.java
  ch6_05.IntArrayStreamTest
+ch6_11/Student.java
+ ch6_11.Student
 ch_10/Car.java
  ch_10.Car
 ch5_10/Member.java
  ch5_10.Member
+ch6_15/FileReaderTest.java
+ ch6_15.FileReaderTest
 ch6_03/MyNumber.java
  ch6_03.MyNumber
 ch5_10/MemberArrayListTest.java
  ch5_10.MemberArrayListTest
 ch3_03/VIPCustomer.java
  ch3_03.VIPCustomer
+ch4_04/StringTestf.java
+ ch4_04.StringTestf
 ch20/CharArrayTest.java
  ch20.CharArrayTest
 ch4_03/StringBuilderTest.java
@@ -81,14 +97,21 @@ ch4_03/StringBuilderTest.java
 ch5_05/MyListQueue.java
  ch5_05.MyListQueue
  ch5_05.Queue
+ch6_17/SerializationTest.java
+ ch6_17.Person
+ ch6_17.SerializationTest
 ch3_04/Customer.java
  ch3_04.Customer
+ch6_15/FileWriterTest.java
+ ch6_15.FileWriterTest
 ch6_07/TravelCustomer.java
  ch6_07.TravelCustomer
 ch5_02/MyArrayTest.java
  ch5_02.MyArrayTest
 ch3_11/CalculatorTest.java
  ch3_11.CalculatorTest
+ch6_13/SystemInTest1.java
+ ch6_13.SystemInTest1
 ch3_04/VIPCustomer.java
  ch3_04.VIPCustomer
 ch3_04/CustomerTest.java
@@ -97,10 +120,14 @@ ch3_11/Calc.java
  ch3_11.Calc
 ch6_03/MyNumberTest.java
  ch6_03.MyNumberTest
+ch6_09/ThrowException.java
+ ch6_09.ThrowException
 ch3_15/BookShelfTest.java
  ch3_15.BookShelfTest
 ch09/SubjectTest.java
  ch09.SubjectTest
+ch6_16/BufferedStreamTest.java
+ ch6_16.BufferedStreamTest
 ch16/Employee.java
  ch16.Employee
 ch10/BirthDayTest.java
@@ -129,12 +156,16 @@ ch4_02/Student.java
  ch4_02.Student
 ch5_12/MemberHashSet.java
  ch5_12.MemberHashSet
+ch6_14/FileOutputStreamTest2.java
+ ch6_14.FileOutputStreamTest2
 ch5_12/Member.java
  ch5_12.Member
 ch5_14/Member.java
  ch5_14.Member
 ch5_06/Plastic.java
  ch5_06.Plastic
+ch6_10/PasswordTest.java
+ ch6_10.PasswordTest
 ch3_14/Calculator.java
  ch3_14.Calculator
 ch3_11/Calculator.java
@@ -163,6 +194,8 @@ ch3_09/NoteBook.java
  ch3_09.NoteBook
 ch20/ArrayTest.java
  ch20.ArrayTest
+ch6_11/LoggerTest.java
+ ch6_11.LoggerTest
 ch3_06/Animal.java
  ch3_06.Animal
  ch3_06.AnimalTest
@@ -191,6 +224,10 @@ ch13/Subway.java
  ch13.Subway
 ch6_04/StringConcat.java
  ch6_04.StringConcat
+ch6_10/PasswordException.java
+ ch6_10.PasswordException
+ch6_14/FileOutputStreamTest1.java
+ ch6_14.FileOutputStreamTest1
 breakTest.java
  breakTest
 ch21/ObjectCopyTest2.java
@@ -205,6 +242,8 @@ ch_10/CarTest.java
  ch_10.CarTest
 ch6_04/StringConcatTest.java
  ch6_04.StringConcatTest
+ch6_11/StudentTest.java
+ ch6_11.StudentTest
 ch13/Bus.java
  ch13.Bus
 ch6_05/ArrayListStreamTest.java
@@ -220,14 +259,22 @@ functionTest.java
  functionTest
 ch5_13/TreeSetTest.java
  ch5_13.TreeSetTest
+ch6_09/FileExceptionHandling.java
+ ch6_09.FileExceptionHandling
 ch5_13/MemberTreeSetTest.java
  ch5_13.MemberTreeSetTest
+ch6_14/FileInputStreamTest3.java
+ ch6_14.FileInputStreamTest3
 ch6_02/Add.java
  ch6_02.Add
 ch5_07/GenericPrinter.java
  ch5_07.GenericPrinter
 ch3_15/Queue.java
  ch3_15.Queue
+ch6_09/AutoCloseTest.java
+ ch6_09.AutoCloseTest
+ch6_09/ArrayExceptionHandling.java
+ ch6_09.ArrayExceptionHandling
 ch6_01/InnerTest.java
  ch6_01.InnerTest
  ch6_01.OutClass
@@ -240,8 +287,8 @@ ch5_04/MyArrayStackTest.java
  ch5_04.MyArrayStackTest
 UserInfo.java
  UserInfo
-ch3_02/VIPCustomer.java
- ch3_02.VIPCustomer
+ch6_07/TravelTest.java
+ ch6_07.TravelTest
 ch18/CompanyTest.java
  ch18.CompanyTest
 ch5_07/GenericPrinterTest.java
@@ -256,6 +303,8 @@ ch5_12/HashSetTest.java
  ch5_12.HashSetTest
 ch3_15/Buy.java
  ch3_15.Buy
+ch6_14/FileInputStreamTest2.java
+ ch6_14.FileInputStreamTest2
 ch3_03/CustomerTest.java
  ch3_03.CustomerTest
 ch3_13/domain/userinfo/dao/UserInfoDAO.java
@@ -266,6 +315,8 @@ ch5_03/MyListNode.java
  ch5_03.MyListNode
 ch3_14/CalculatorTest.java
  ch3_14.CalculatorTest
+ch6_11/StudentNameFormatException.java
+ ch6_11.StudentNameFormatException
 ch5_07/Plastic.java
  ch5_07.Plastic
 ch_10/ManualCar.java
@@ -284,21 +335,9 @@ ch3_15/BookShelf.java
  ch3_15.BookShelf
 ch5_07/Material.java
  ch5_07.Material
-ch4_04/StringTestf.java
- ch4_04.StringTestf
-ch6_07/TravelTest.java
- ch6_07.TravelTest
-ch6_09/ArrayExceptionHandling.java
- ch6_09.ArrayExceptionHandling
-ch6_09/AutoCloseTest.java
- ch6_09.AutoCloseTest
-ch6_09/FileExceptionHandling.java
- ch6_09.FileExceptionHandling
-ch6_09/AutoClosableObj.java
- ch6_09.AutoClosableObj
-ch6_09/ThrowException.java
- ch6_09.ThrowException
-ch6_10/PasswordTest.java
- ch6_10.PasswordTest
-ch6_10/PasswordException.java
- ch6_10.PasswordException
+ch6_16/DataStreamTest.java
+ ch6_16.DataStreamTest
+ch6_18/FileTest.java
+ ch6_18.FileTest
+ch6_18/RandomAccessFileTest.java
+ ch6_18.RandomAccessFileTest

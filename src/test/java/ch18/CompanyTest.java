@@ -6,7 +6,6 @@ public class CompanyTest {
 
     public static void main(String[] args) {
 
-
         Company company1 = Company.getInstance();
         Company company2 = Company.getInstance();
 
@@ -21,8 +20,5 @@ public class CompanyTest {
         //이런식으로 날짜처럼 유일한 객체에 접근할때
         //싱글톤 패턴을 쓴다.
         Calendar calendar = Calendar.getInstance();
-
-
-
     }
 }
