@@ -2,10 +2,15 @@ ch3_15/Customer.java
  ch3_15.Customer
 ch11/MakeReport.java
  ch11.MakeReport
+ch6_21/PriorityTest.java
+ ch6_21.PriorityTest
+ ch6_21.PriorityThread
 ch5_04/MyArrayStack.java
  ch5_04.MyArrayStack
 ch4_04/ClassTest.java
  ch4_04.ClassTest
+ch6_19/Ethiopian.java
+ ch6_19.Ethiopian
 ch_10/AICar.java
  ch_10.AICar
 ch3_14/Calc.java
@@ -24,8 +29,10 @@ ch6_01/AnonymousInnerTest.java
  ch6_01.AnonymousInnerTest
  ch6_01.Outer2
  ch6_01.Outer2$1
-ch3_02/VIPCustomer.java
- ch3_02.VIPCustomer
+ch6_18/FileTest.java
+ ch6_18.FileTest
+ch6_19/WhippedCream.java
+ ch6_19.WhippedCream
 ch6_04/StringConcatImpl.java
  ch6_04.StringConcatImpl
 ch18/Company.java
@@ -38,8 +45,13 @@ ch3_06/CustomerTest.java
  ch3_06.CustomerTest
 ch3_09/MyNoteBook.java
  ch3_09.MyNoteBook
+ch6_19/Mocha.java
+ ch6_19.Mocha
 ch09/Student.java
  ch09.Student
+ch6_20/ThreadTest.java
+ ch6_20.MyThread
+ ch6_20.ThreadTest
 ch16/EmployeeTest.java
  ch16.EmployeeTest
 ch3_09/DeskTop.java
@@ -76,20 +88,27 @@ ch6_05/IntArrayStreamTest.java
  ch6_05.IntArrayStreamTest
 ch6_11/Student.java
  ch6_11.Student
+ch6_20/ThreadTest2.java
+ ch6_20.MyThread2
+ ch6_20.ThreadTest2
 ch_10/Car.java
  ch_10.Car
 ch5_10/Member.java
  ch5_10.Member
 ch6_15/FileReaderTest.java
  ch6_15.FileReaderTest
+ch6_19/Latte.java
+ ch6_19.Latte
 ch6_03/MyNumber.java
  ch6_03.MyNumber
 ch5_10/MemberArrayListTest.java
  ch5_10.MemberArrayListTest
 ch3_03/VIPCustomer.java
  ch3_03.VIPCustomer
-ch4_04/StringTestf.java
- ch4_04.StringTestf
+ch6_18/RandomAccessFileTest.java
+ ch6_18.RandomAccessFileTest
+ch6_21/TerminateThread.java
+ ch6_21.TerminateThread
 ch20/CharArrayTest.java
  ch20.CharArrayTest
 ch4_03/StringBuilderTest.java
@@ -130,6 +149,8 @@ ch6_16/BufferedStreamTest.java
  ch6_16.BufferedStreamTest
 ch16/Employee.java
  ch16.Employee
+ch6_21/JoinTest.java
+ ch6_21.JoinTest
 ch10/BirthDayTest.java
  ch10.BirthDayTest
 ch3_03/Customer.java
@@ -174,6 +195,8 @@ ch3_15/Sell.java
  ch3_15.Sell
 ch5_03/MyLinkedListTest.java
  ch5_03.MyLinkedListTest
+ch6_19/Coffee.java
+ ch6_19.Coffee
 ch11/MakeReportTest.java
  ch11.MakeReportTest
 ch3_02/Customer.java
@@ -202,6 +225,10 @@ ch3_06/Animal.java
  ch3_06.Eagle
  ch3_06.Human
  ch3_06.Tiger
+ch6_23/LibraryMain.java
+ ch6_23.BMLibrary
+ ch6_23.LibraryMain
+ ch6_23.Student
 ch5_13/ComparatorTest.java
  ch5_13.ComparatorTest
  ch5_13.MyCompare
@@ -248,6 +275,11 @@ ch13/Bus.java
  ch13.Bus
 ch6_05/ArrayListStreamTest.java
  ch6_05.ArrayListStreamTest
+ch6_22/SyncMain.java
+ ch6_22.Bank
+ ch6_22.Park
+ ch6_22.ParkWife
+ ch6_22.SyncMain
 ch6_06/ReduceTest.java
  ch6_06.CompareString
  ch6_06.ReduceTest
@@ -293,6 +325,8 @@ ch18/CompanyTest.java
  ch18.CompanyTest
 ch5_07/GenericPrinterTest.java
  ch5_07.GenericPrinterTest
+ch3_02/VIPCustomer.java
+ ch3_02.VIPCustomer
 ch4_04/Person.java
  ch4_04.Person
 ch22/TwoDimensionTest.java
@@ -313,10 +347,14 @@ ch5_14/MemberHashMap.java
  ch5_14.MemberHashMap
 ch5_03/MyListNode.java
  ch5_03.MyListNode
+ch6_19/Kenya.java
+ ch6_19.Kenya
 ch3_14/CalculatorTest.java
  ch3_14.CalculatorTest
 ch6_11/StudentNameFormatException.java
  ch6_11.StudentNameFormatException
+ch6_19/CoffeeTest.java
+ ch6_19.CoffeeTest
 ch5_07/Plastic.java
  ch5_07.Plastic
 ch_10/ManualCar.java
@@ -329,6 +367,8 @@ ch6_01/LocalInnerTest.java
  ch6_01.Outer$1MyRunnable
 ch5_03/MyLinkedList.java
  ch5_03.MyLinkedList
+ch6_19/Decorator.java
+ ch6_19.Decorator
 ch13/Student.java
  ch13.Student
 ch3_15/BookShelf.java
@@ -337,7 +377,9 @@ ch5_07/Material.java
  ch5_07.Material
 ch6_16/DataStreamTest.java
  ch6_16.DataStreamTest
-ch6_18/FileTest.java
- ch6_18.FileTest
-ch6_18/RandomAccessFileTest.java
- ch6_18.RandomAccessFileTest
+ch4_04/StringTestf.java
+ ch4_04.StringTestf
+org/example/service/TodoServiceTest.java
+ org.example.service.TodoServiceTest
+org/example/controller/TodoControllerTest.java
+ org.example.controller.TodoControllerTest

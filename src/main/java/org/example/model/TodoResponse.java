@@ -16,12 +16,13 @@ public class TodoResponse {
     private Boolean completed;
     private String url;
 
-    public TodoResponse(TodoEntity todoEntity){
+    public TodoResponse(TodoModel todoEntity){
         this.id = todoEntity.getId();
         this.title = todoEntity.getTitle();
         this.order = todoEntity.getOrder();
         this.completed = todoEntity.getCompleted();
 
+        //url은 임의로 작성함 (원래 이러케 하면 안됨)
         this.url = "http://localhost:8080/" + this.id;
     }
 }
